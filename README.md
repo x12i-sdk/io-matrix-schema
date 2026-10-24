@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Types, Zod schemas, and utilities for the Object–Property I/O Matrix format.
-- A producer and consumer of io-matrix-schema data need to share the published type or validation contract before exchanging payloads.
+- Validate a matrix document shared by an authoring tool and viewer.
+- Reuse the published matrix types when constructing rows, columns and cells.
 
 ## Links
 
